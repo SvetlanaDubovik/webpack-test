@@ -1,0 +1,18 @@
+@font-face{
+
+font-family: 'openSansBold';
+
+src: url('../fonts/opensansbold.woff');
+
+src: url('../fonts/opensansbold.woff') format('woff'),
+  
+url('../fonts/opensansbold.woff2') format('woff2'),
+
+url('../fonts/opensansbold.ttf')  format('truetype');
+
+font-weight: bold;
+
+font-style: normal;
+
+}
+
